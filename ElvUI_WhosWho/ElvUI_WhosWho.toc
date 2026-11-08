@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: ElvUI Who's Who Bridge
+## Notes: WiW nicknames in ElvUI sender links (WoW Forever).
+## Author: crss
+## Version: 0.1.0
+## OptionalDeps: ElvUI, WhosWho
+## SavedVariables: ElvUIWhosWhoDB
+
+Resolver.lua
+Bridge.lua

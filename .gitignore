@@ -1,4 +1,9 @@
 # Compiled Lua sources
+.test-tools/
+__pycache__/
+WTF/
+SavedVariables/
+*.log
 luac.out
 
 # luarocks build files
